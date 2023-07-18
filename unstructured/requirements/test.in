@@ -1,0 +1,20 @@
+-c constraints.in
+-c base.txt
+black>=22.3.0
+coverage
+# NOTE(mrobinson) - Pinning click due to a unicode issue in black
+# can remove after black drops support for Python 3.6
+# ref: https://github.com/psf/black/issues/2964
+click>=8.1
+flake8
+freezegun
+label_studio_sdk
+mypy
+pytest-cov
+pytest-mock
+ruff
+types-Markdown
+types-requests
+types-tabulate
+vcrpy
+grpcio

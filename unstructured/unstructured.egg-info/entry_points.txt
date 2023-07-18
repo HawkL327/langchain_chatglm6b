@@ -1,0 +1,2 @@
+[console_scripts]
+unstructured-ingest = unstructured.ingest.main:main
