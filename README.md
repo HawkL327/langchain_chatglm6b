@@ -38,4 +38,4 @@
 # 运行：
 ## 1、修改 LangChain-ChatGLM-Webui/config.py 中path to对应的chatglm 6b和text2vec-large-chinese的路径
 ## 2、python app.py
-dem0[demo](https://github.com/HawkL327/langchain_chatglm6b/blob/main/demo_image/demo.png?raw=true)
+dem0[demo](demo_image/demo.png)
