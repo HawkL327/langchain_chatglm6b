@@ -19,6 +19,7 @@
 ## 1、chatglm 6b
    https://huggingface.co/THUDM/chatglm-6b
    commit id: 1d240ba371910e9282298d4592532d7f0f3e9f3e
+   使用仓库中的 modeling_chatglm.py 替换模型文件中的modeling_chatglm.py
 ## 2、text2vec-large-chinese
    https://huggingface.co/GanymedeNil/text2vec-large-chinese
    commit id: eb0ba6f8f02dcf960514fc55e4a3abd6cda6e0c5
